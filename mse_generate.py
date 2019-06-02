@@ -81,9 +81,6 @@ def gen_text(card_names):
 	return full_text
 
 
-card_names = [
-]
-
 def read_names_from_file(filename):
 	f = open(filename, "r")
 	text = f.read()
