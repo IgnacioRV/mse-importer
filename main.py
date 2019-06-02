@@ -1,5 +1,7 @@
 import requests
 import json
+
+
 def templated_card(card):
 	text = f"""
 card:
