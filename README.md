@@ -8,7 +8,7 @@ In order to manipulate `.mse-set` files I recommend using 7z: https://www.7-zip.
 ## How to use it
 First generate the content of the set file:
 - Store the list of cards you want to import in a txt file, one card name per line.
-- Open a command line and run  `python main.py <filename>.txt `
+- Open a command line and run  `python mse_generate.py <filename>.txt `
 . Wait until the program finishes
 - The formatted file will be in `result.txt`
 
