@@ -3,6 +3,7 @@ Small tool to import cards into Magic Set Editor
 
 ## Requirements
 This tool requires Python 3
+
 In order to manipulate `.mse-set` files I recommend using 7z: https://www.7-zip.org/download.html  
 
 ## How to use it
@@ -22,5 +23,7 @@ Now we need to add that to an MSE Set:
 
 ## TODO
 Create an MSE Set instead of having to do the manual steps
+
 Specify a full set directly
+
 Allow Multiverse ID's
