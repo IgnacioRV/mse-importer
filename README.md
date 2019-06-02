@@ -12,7 +12,7 @@ First generate the content of the set file:
 . Wait until the program finishes
 - The formatted file will be in `result.txt`
 
-Now we need to add that to an MSE Set
+Now we need to add that to an MSE Set:
 - Go to the folder where your MSE set save file  is located(If you don't have one, create one and add an empty card)
 - Using 7z right-click and select 'Open archive'
 - Find the `set` file, right-click -> Edit (with notepad)
@@ -22,5 +22,5 @@ Now we need to add that to an MSE Set
 
 ## TODO
 Create an MSE Set instead of having to do the manual steps
-
-
+Specify a full set directly
+Allow Multiverse ID's
