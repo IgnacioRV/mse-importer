@@ -89,7 +89,7 @@ def read_names_from_file(filename):
 
 
 def write_to_file(filename, text):
-	f = open(RESULTS_FILE_NAME, "w+")
+	f = open(RESULTS_FILE_NAME, "w+", encoding='utf-8')
 	f.write(text)
 	f.close()
 
